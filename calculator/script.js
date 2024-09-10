@@ -191,7 +191,6 @@ document.addEventListener("keydown", function (event) {
     case "enter": // If 'Enter' is pressed, calculate result
       calc();
       break;
-
     default:
       break;
   }
